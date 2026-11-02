@@ -1,7 +1,7 @@
 {
   "version": "1.0.2",
   "build_number": 4,
-  "tag_name": "v1.0.2+4",
+  "tag_name": "v1.0.2",
   "title": "Actualización v1.0.2 - Registro por Pasos y Cashea",
   "release_notes": "• Registro organizado en 3 pasos interactivos e intuitivos.\n• Integración de Cashea al registrar tu comercio.\n• Banner distintivo de Cashea en el Dashboard.\n• Opción en Perfil para activar o desactivar Cashea cuando desees.\n• Directorio renombrado a Comercios con badge de Cashea.",
   "download_url": "https://github.com/mtovardev/SiempreActivo-App/releases/latest/download/app-release.apk",
