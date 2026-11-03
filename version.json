@@ -1,9 +1,12 @@
 {
-  "version": "1.0.2",
-  "build_number": 4,
-  "tag_name": "v1.0.2",
-  "title": "Actualización v1.0.2 - Registro por Pasos y Cashea",
-  "release_notes": "• Registro organizado en 3 pasos interactivos e intuitivos.\n• Integración de Cashea al registrar tu comercio.\n• Banner distintivo de Cashea en el Dashboard.\n• Opción en Perfil para activar o desactivar Cashea cuando desees.\n• Directorio renombrado a Comercios con badge de Cashea.",
-  "download_url": "https://github.com/mtovardev/CuadraYa-App/releases/latest/download/app-release.apk",
+  "version": "1.0.3",
+  "build_number": 5,
+  "tag_name": "v1.0.3",
+  "title": "Actualización v1.0.3 - Códigos de Barra, Sonido POS, Push Realtime y Gestión Premium",
+  "release_notes": "• Generador e impresión térmica/red de códigos de barra personalizados para productos no registrados.\n• Búsqueda y escaneo por código de barra en Ventas (POS)     
+  desde inventario local con pitido de supermercado.\n• Permisos de notificaciones y audio al iniciar la app.\n• Notificaciones push y en tiempo real para ventas de empleados, cambios 
+  de inventario y estatus de planes.\n• Panel administrativo: Pausar y reactivar Plan Premium con congelación de días restantes.\n• Búsqueda automática de actualizaciones al iniciar la
+  app con descarga e instalación directa.",
+  "download_url": "https://github.com/mtovardev/CuadraYa-App/releases/download/v1.0.3/app-release.apk",
   "is_mandatory": false
 }
