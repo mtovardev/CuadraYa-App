@@ -1,12 +1,9 @@
-    {
-      "version": "1.0.3",
-      "build_number": 5,
-      "tag_name": "v1.0.3",
-      "title": "Actualización v1.0.3 - Códigos de Barra, Sonido POS y Notificaciones",
-      "release_notes": "• Generador e impresión térmica/red de códigos de barra personalizados para productos no registrados.\n• Búsqueda y escaneo por código de barra en Ventas (POS)     
-      desde inventario local con sonido de supermercado.\n• Permisos de audio y notificaciones configurables al iniciar la app.\n• Notificaciones push y realtime para ventas de empleados, 
-      cambios de inventario y estatus de planes.\n• Panel administrativo: Pausa y reanudación de suscripción Premium con congelación de días restantes.\n• Verificación y descarga          
-      automática de actualizaciones al abrir la app.",
-      "download_url": "https://github.com/mtovardev/CuadraYa-App/releases/download/v1.0.3/app-release.apk",
-      "is_mandatory": false
-    }
+{
+  "version": "1.0.4",
+  "build_number": 6,
+  "tag_name": "v1.0.4",
+  "title": "Actualización v1.0.4 - Premium en Tiempo Real, Devoluciones y Modo Adaptable",
+  "release_notes": "• Detección inmediata del plan Premium en Mi Comercio sin retrasos de caché.\n• Nuevo módulo de Devoluciones en Dashboard con búsqueda inteligente por Ticket ID o producto.\n• Nuevo diseño adaptable en Login y Tutorial para modo claro y modo oscuro.\n• Logo oficial en alta resolución con tipografía dinámica y diseño responsivo para pantallas anchas y tablets.\n• Organización clara de botones en Nuevo Producto (Escanear código, Crear SKU personalizado e Imprimir etiqueta).\n• Campo 'Precio Costo ($)' optimizado para pantallas pequeñas.\n• Eliminación en cascada segura de comercios y usuarios.",
+  "download_url": "https://github.com/mtovardev/CuadraYa-App/releases/download/v1.0.4/app-release.apk",
+  "is_mandatory": false
+}
